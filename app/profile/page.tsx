@@ -22,7 +22,7 @@ export default function ProfilePage() {
   const [profileData, setProfileData] = useState({
     name: user?.name || "",
     email: user?.email || "",
-    bio: "Senior Software Engineer with 5+ years of experience in web development.",
+    bio: "Let touch some grass",
     phone: "+91 7464002364",
     location: "Bengaluru, Karnataka",
     skills: ["JavaScript", "React", "Node.js", "TypeScript", "Next.js"],
