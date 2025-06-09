@@ -1,4 +1,4 @@
-# BugCrate 🐛📦
+# BugCrate 
 
 A simple and intuitive bug tracking application built with Next.js and React. Perfect for small teams to manage tasks, track bugs, and monitor project progress.
 
@@ -13,7 +13,7 @@ A simple and intuitive bug tracking application built with Next.js and React. Pe
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
-## 🎯 About BugCrate
+## About BugCrate
 
 BugCrate is a lightweight bug tracking and task management application designed for development teams. It provides an easy-to-use interface for creating, assigning, and tracking bugs and tasks throughout the development lifecycle.
 
@@ -23,37 +23,37 @@ BugCrate is a lightweight bug tracking and task management application designed 
 - **Kanban Board**: Visual task management with drag-and-drop functionality
 - **Real-time Updates**: Stay synchronized with your team's progress
 
-## ✨ Features
+## Features
 
 ### For Developers:
-- ✅ View assigned tasks and bugs
-- ✅ Update task status (Open → In Progress → Pending Approval)
-- ✅ Log time spent on tasks
-- ✅ Add comments and updates
-- ✅ Track personal performance metrics
+- View assigned tasks and bugs
+- Update task status (Open → In Progress → Pending Approval)
+- Log time spent on tasks
+- Add comments and updates
+- Track personal performance metrics
 
 ### For Managers:
-- ✅ Create and assign tasks to team members
-- ✅ Approve or reject completed tasks
-- ✅ View team performance dashboard
-- ✅ Generate reports and export data
-- ✅ Manage system settings and user permissions
+- Create and assign tasks to team members
+- Approve or reject completed tasks
+- View team performance dashboard
+- Generate reports and export data
+- Manage system settings and user permissions
 
 ### General Features:
-- 🎨 Dark/Light theme support
-- 📱 Responsive design for mobile and desktop
-- 🔍 Advanced search and filtering
-- 📊 Interactive charts and analytics
-- 🏷️ Task tagging and categorization
-- ⏰ Due date tracking and notifications
+- Dark/Light theme support
+- Responsive design for mobile and desktop
+- Advanced search and filtering
+- Interactive charts and analytics
+- Task tagging and categorization
+- Due date tracking and notifications
 
-## 🎬 Demo
+## Demo
 
 ### Live Demo
-[View Live Demo](https://your-demo-link.vercel.app) *(Replace with your actual demo link)*
+[View Live Demo][https://your-demo-link.vercel.app](https://bug-crate-two.vercel.app/login)
 
 ### Demo Video
-[Watch Demo Video](https://your-video-link.com) *(Replace with your actual video link)*
+[Watch Demo Video][(https://your-video-link.com) ](https://drive.google.com/file/d/1a6jAkN96Ct4YTz9EAhfWfin68zyVuwva/view?usp=sharing)
 
 ### Demo Credentials
 ```
