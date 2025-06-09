@@ -23,8 +23,8 @@ export default function ProfilePage() {
     name: user?.name || "",
     email: user?.email || "",
     bio: "Senior Software Engineer with 5+ years of experience in web development.",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA",
+    phone: "+91 7464002364",
+    location: "Bengaluru, Karnataka",
     skills: ["JavaScript", "React", "Node.js", "TypeScript", "Next.js"],
     avatar: user?.avatar || "",
   })
