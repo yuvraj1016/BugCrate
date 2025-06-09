@@ -50,10 +50,10 @@ BugCrate is a lightweight bug tracking and task management application designed 
 ## Demo
 
 ### Live Demo
-[View Live Demo][https://your-demo-link.vercel.app](https://bug-crate-two.vercel.app/login)
+[View Live Demo](https://bug-crate-two.vercel.app/login)
 
 ### Demo Video
-[Watch Demo Video][(https://your-video-link.com) ](https://drive.google.com/file/d/1a6jAkN96Ct4YTz9EAhfWfin68zyVuwva/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1a6jAkN96Ct4YTz9EAhfWfin68zyVuwva/view?usp=sharing)
 
 ### Demo Credentials
 ```
