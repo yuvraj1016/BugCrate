@@ -84,7 +84,7 @@ export function TaskDetailDialog({
       userName: "Suraj Shikhar",
       userAvatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
       content: "Please check the authentication service logs for any errors.",
-      createdAt: "2024-01-16T15:30:00Z",
+      createdAt: "2025-05-16T15:30:00Z",
     },
     {
       id: "2",
@@ -93,7 +93,7 @@ export function TaskDetailDialog({
       userName: "Yuvraj Singh",
       userAvatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
       content: "Found the issue in the auth middleware. Working on a fix now.",
-      createdAt: "2024-01-16T16:45:00Z",
+      createdAt: "2025-05-16T16:45:00Z",
     },
   ])
 
