@@ -211,6 +211,7 @@ Update the `TaskStatus` type in `types/index.ts`:
 export type TaskStatus = "open" | "in-progress" | "pending-approval" | "closed" | "your-new-status"
 \`\`\`
 
-### Approach To the problem
+## Assumptions
+- "The application relies on static data for functionalities such as task details, user authentication, and personal information."
 
 
