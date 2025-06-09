@@ -56,7 +56,7 @@ BugCrate is a lightweight bug tracking and task management application designed 
 [Watch Demo Video](https://your-video-link.com) *(Replace with your actual video link)*
 
 ### Demo Credentials
-\`\`\`
+```
 Developer Account:
 Email: yuvi@company.com
 Password: password
@@ -64,7 +64,7 @@ Password: password
 Manager Account:
 Email: suraj@company.com
 Password: password
-\`\`\`
+```
 
 ## 🚀 Getting Started
 
@@ -78,24 +78,24 @@ Make sure you have the following installed on your machine:
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone [https://github.com/yuvraj1016/BugCrate.git](https://github.com/yuvraj1016/BugCrate.git)
    cd BugCrate
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. **Start the development server**
-   \`\`\`bash
+   ```bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 4. **Open your browser**
    
@@ -103,13 +103,13 @@ Make sure you have the following installed on your machine:
 
 ### Build for Production
 
-\`\`\`bash
+```bash
 # Build the application
 npm run build
 
 # Start the production server
 npm start
-\`\`\`
+```
 
 ## 📖 Usage
 
