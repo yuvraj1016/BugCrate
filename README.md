@@ -150,30 +150,32 @@ npm start
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 bugcrate/
-├── app/                    # Next.js app directory
-│   ├── dashboard/         # Dashboard page
-│   ├── tasks/            # Tasks management page
-│   ├── kanban/           # Kanban board page
-│   ├── approvals/        # Manager approvals page
-│   ├── login/            # Authentication page
-│   └── layout.tsx        # Root layout
-├── components/            # Reusable React components
-│   ├── ui/               # Basic UI components
-│   ├── auth/             # Authentication components
-│   ├── tasks/            # Task-related components
-│   ├── layout/           # Layout components
-│   └── dashboard/        # Dashboard components
-├── lib/                  # Utility functions and data
-│   ├── auth.ts           # Authentication logic
-│   ├── data.ts           # Data management
-│   └── utils.ts          # Helper functions
-├── hooks/                # Custom React hooks
-├── types/                # TypeScript type definitions
-├── contexts/             # React context providers
-└── public/               # Static assets
-\`\`\`
+├── app/                     # Next.js app directory
+│   ├── approvals/           # Manager approvals page
+│   ├── dashboard/           # Dashboard page
+│   ├── kanban/              # Kanban board page
+│   ├── login/               # Authentication page
+│   ├── tasks/               # Tasks management page
+│   └── layout.tsx           # Root layout
+├── components/              # Reusable React components
+│   ├── auth/                # Authentication components
+│   ├── dashboard/           # Dashboard components
+│   ├── layout/              # Layout components
+│   ├── tasks/               # Task-related components
+│   └── ui/                  # Basic UI components
+├── contexts/                # React context providers
+├── hooks/                   # Custom React hooks
+├── lib/                     # Utility functions and data
+│   ├── auth.ts              # Authentication logic
+│   ├── data.ts              # Data management
+│   └── utils.ts             # Helper functions
+├── types/                   # TypeScript type definitions
+├── public/                  # Static assets
+└── README.md                # Project documentation
+```
+
 
 ## 🛠️ Technologies Used
 
@@ -191,7 +193,7 @@ bugcrate/
 
 Edit `lib/auth.ts` to add new users:
 
-\`\`\`typescript
+```typescript
 const MOCK_USERS: User[] = [
   {
     id: "4",
@@ -201,15 +203,15 @@ const MOCK_USERS: User[] = [
   },
   // ... existing users
 ]
-\`\`\`
+```
 
 ### Modifying Task Statuses
 
 Update the `TaskStatus` type in `types/index.ts`:
 
-\`\`\`typescript
+```typescript
 export type TaskStatus = "open" | "in-progress" | "pending-approval" | "closed" | "your-new-status"
-\`\`\`
+```
 
 ## Assumptions
 - "The application relies on static data for functionalities such as task details, user authentication, and personal information."
